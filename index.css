@@ -1,0 +1,13 @@
+body {
+    background-color: #CCC;
+}
+
+#beauty {
+    /* width: auto; ----这句话写不写效果一样,均是在适应下面高的基础上保持原图等比例缩放 */
+    /* width: 100%; ----表示宽度撑满整个屏幕*/
+    height: 800px;
+}
+
+.pic {
+    width: 1300px;
+}
